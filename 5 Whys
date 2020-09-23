@@ -1,0 +1,13 @@
+5 whys is an Iterative Interrogative Technique.
+
+The method is remarkably simple: when a problem occurs, you drill down to its root cause by asking "Why?" five times. 
+
+The primary goal of the technique is to determine the root cause of a defect or problem by repeating the question "Why?". Each answer forms the basis of the next question.
+
+The questioning for this example could be taken further to a sixth, seventh, or higher level, but five iterations of asking why is generally sufficient to get to a root cause.
+The key is to encourage the trouble-shooter to avoid assumptions and logic traps and instead trace the chain of causality.
+
+the real root cause should point toward a process that is not working well or does not exist.
+
+Untrained facilitators will often observe that answers seem to point towards classical answers such as not enough time, not enough investments, or not enough manpower.
+These answers may be true, but they are out of our control. Therefore, instead of asking the question why?, ask why did the process fail?
