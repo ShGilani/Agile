@@ -1,0 +1,14 @@
+A playful approach to estimation, used by many Agile teams.
+
+Format of the game:
+----------------------
+The Product Owner/Scrum Master briefly states the intent and value of a story, What needs to be done to achieve this. 
+
+ Each member of the development team silently picks an estimate for the Story points. 2-5 mins are given to think.
+ When everyone has taken their pick, the estimates are read aloud. (physical cards/ online points can be used)
+
+The two (or more) team members who gave the high and low estimate justify their reasoning. 
+
+After brief discussion, the team may seek convergence toward a consensus estimate by playing one or more further rounds or by further discussions.
+
+One common pitfall of Planning Poker resides in making "convergence to consensus estimate" an obligation rather than a natural result of the conversation that follows a round of play.
