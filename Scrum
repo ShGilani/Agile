@@ -1,7 +1,9 @@
-Scrum is a framework (Supporting/Guiding Structure) not a methodology (Step by Step way of doing thing).
+Scrum is a framework (Supporting/Guiding Structure) not a methodology (Step by Step way of doing thing). 
+It is an additive framework that allows extension, provided the defined elements are met.
 
-There are 3 defined roles, 3 defined artefacts, and 5 events in Scrum.
+There are 3 defined roles, 3 defined artefacts, and 5 events in Scrum. They are supported by some implied elements.
 
+3 together becomes the Scrum Team:
 Scrum Master
 Development Team
 Product Owner
@@ -16,6 +18,11 @@ Daily Scrum
 Sprint Review
 Sprint Retrospective
 
+Implied Events and Artefacts:
+Backlog Grooming/Product Backlog Refinement
+Sprint Goal
+Definition of “Done”.
+
 
 Scrum works in 'Complex Domain'. (Not Simple/Complicated)
 It adds most value when there is an element of uncertainty in the requirements and technology, implementation.
@@ -28,5 +35,8 @@ We’ve seen many organizations take the idea of “best” practices too far (l
 Key Concepts:
 Empiricism
 Transparency
-Regular/Frequent Inspection
+Regular/Frequent Inspection & Feedbacks
 pull mechanism
+Self-organizing Team
+
+intrinsic motivation is achieved through maximising autonomy, mastery and purpose.
