@@ -62,7 +62,30 @@ Scrum is a very simple framework that's entirely focused on doing just enough pr
     
    These pillars don't stand alone though. They're supported by the overall Scrum values of commitment, courage, focus, openness, and respect. When Scrum teams abide by these five values, trust is established. This trust then makes it safe to explore, experiment, learn, and solve tough problems.
    
+   ----------
    
+    PO: PO manages the backlog and not the Team
+    Clearly expressing the PBI so the development team knows what to build and what done will look like.  Ordering the PBIs to maximize the value being delivered by the development team.
+    Clarifying the requirements that are represented as PBIs. sometimes it's necessary to abnormally terminate a sprint. This is very rare, but it does happen sometimes. Usually this has to happen when the PBI being worked on is found to no longer have value.
+    
+    - Let's start by differentiating between the Scrum Team and the development team. 
+    The Scrum Team consists of the product owner, Scrum master, and the development team. 
+    The development team is the specific group of people tasked with creating a potentially shippable product increment at the end of the sprint. 
+    So, who's on this team to make that happen? Well, very simply, the development team is the group of people with all the skills needed to do the work that's defined in the product backlog.
+    
+    - . The development team consists of three to nine people. Fewer than three development team members has been proven to be ineffective. 
+    There just isn't enough interaction to generate substantial productivity gains. 
+    Another challenge with a team this small is that they may not have all the skills they need to create a potentially shippable product increment at the end of a sprint.
+    On the flip side, more than nine people really adds complexity to collaboration and communication. This complexity results in greater risk, as more time is spent communicating than you otherwise need. This could potentially result in less productivity. 
+    
+     First, the teams are self-organizing. That means that neither the PO nor the Scrum master can tell them how to build the PBIs. The team determines how to generate a product increment from the product backlog items. Second, the teams are cross-functional. That means the team has all the skills necessary to complete the work in the product backlog. Third, development team members don't acknowledge roles or titles. That means that everyone has the same role, that of developer. Team members can have specialized skills, but they're all expected to do whatever needs to be done to complete the product increment. This is known as generalizing.
+     
+      However, sometimes it's not possible to have all the necessary skills dedicated to your team. So in this instance, Scrum allows the usage of shared resources. Perhaps you only need a specific skill for a short period of time. An example is the need for a security engineer for a customer website the team is building. You may only need this skillset early in the project as the development team is working through their security design
+       As you provide awareness to those temporary team members, you can also set expectations around their level of involvement. 
+      . At the same time, they've become established before the need as subject matter experts. In this way, you can minimize the disruption to the development team and maximize the ability of the shared resource to contribute effectively. As a Scrum master, it's your responsibility to help the Scrum team become high performing.
+      
+      
+     
    
    
    
