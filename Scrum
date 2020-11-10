@@ -4,6 +4,8 @@ It is an additive framework that allows extension, provided the defined elements
  The Scrum process is for minimizing waste and maximizing value.
  Development teams minimize waste by only working on the right thing,
  they maximize value by working on the right thing at the right time (Prioritizing). 
+ 
+ Well, in keeping an ordered product backlog, the PO is communicating what is the right thing to do and when is the right time to do it. Since the product backlog is the communication vehicle for this critical information, only the PO can make changes to it. 
 
 There are 3 defined roles, 3 defined artefacts, and 5 events in Scrum. They are supported by some implied elements.
 
