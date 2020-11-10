@@ -4,3 +4,42 @@ As Scrum Masters, we want to enable our teams to deliver business value. To do s
 The 8 Stances of a Scrum Master:
 Servant Leader/Impediment Remover/Change Agent/
 Manager/Coach/Mentor/Facilitator/Teacher
+
+The role is not the same as a project manager. 
+The scrum master is only a manager, in that this person is managing the scrum process. 
+
+Ensures the product owner doesn't demand too much from the team in any sprint. 
+Helps the development team perform at the highest level possible.
+
+First, the scrum master protects the development team from outside distractions. (Capacity planning? allocation for customer bugs/ division wide activities..)
+That means being aware of what the development team members are working on and running interference if a team member's manager is asking them to do work outside of the product backlog. These conversations are not always easy, but it's the job of the scrum master to resolve these distractions.
+
+ The second aspect of protecting the development team falls into the category of protecting them from itself. What I mean by this is that sometimes there will be pressure to overcommit to how much work the development team can do within a sprint. A key hallmark of the Agile Manifesto is that development teams strive to attain a sustainable pace. When a development team overcommits, they're outside the boundaries of agile and scrum. The scrum master will identify the signs of overcommitment and hold the development team accountable to rightsizing their sprint commitment. 
+ 
+  Third, the scrum master protects the development team from complacency. Sometimes when development teams have been together for a while and they're feeling comfortable, they stop looking for ways to improve their activities and interactions. When this happens, the scrum master needs to help the development team identify further growth areas. Sometimes the development team can undercommit to sprints. This is another form of complacency. When the scrum master sees this behavior, it's their duty to push the development team to complete the most work they can with high quality. maximize the value the development team can deliver.
+  
+ Finally, the scrum master owns the scrum implementation itself. You might wonder what that means. Well, as the process owner, scrum masters can make changes to the scrum processes. They'll accept the development team's input on process changes, but ultimately the decisions on process lie with them. The scrum master will only make changes that remain in alignment with the scrum philosophy and values. 
+ For example, I once had a development team that only wanted to hold sprint reviews with our customers every other sprint. I considered their request and declined to make the change. Why? Well, the change was a simple one to make. That much time between demonstrating and getting feedback on our work would not have been in the best interest of the development team, the product owner, or the product. So while the scrum master has no direct authority over development team members, they do have autonomy and authority over the process. When you stay grounded in the scrum framework and lead your development teams to their highest performance, great things happen. You'll help them attain the best implementation of scrum.
+ 
+ Servant Leader:
+ -------------------
+ - The term servant leader is the one most commonly associated with the role of the scrum master. 
+   
+When you're a servant, not focused on being the best or the brightest. Your focus is on enabling/serving people and organizations to understand the process and adopt the values and practices related to scrum. The scrum master serves the development team, the PO, and the whole organization.
+
+PO:  coaching the PO on best practices for product backlog management.
+
+Development Team:  coaching the development team on self-organization and becoming cross-functional, 
+helping the development team understand the scrum philosophy and values, guiding the development team on the scrum framework, 
+facilitating the development team in problem-solving, and removing impediments. 
+
+ Org: The organization doesn't always know how best to support the scrum environment. Since that's the case, the scrum master also needs to serve the organization. They do this by coaching the organization on the right ways to adopt scrum.
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
