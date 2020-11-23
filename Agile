@@ -1,5 +1,7 @@
   It's easy to misconstrue Agile development as a somewhat loose and fly-by-the-seat-of-your-pants methodology(rely on instinct rather than logic or knowledge.)
  
+  For Agile project-tracking, I'd recommend starting with something simple and possibly free, like Pivotal Tracker, Trello, or Airtable. These are basic Kanban boards that you can create user stories, backlogs, and sprints on, without having to train your team on complex software. 
+  If you end up needing something more powerful, go ahead and make the jump to JIRA or Hansoft.
  
  Agile Manifesto (Manifesto for Agile Software Development), defines 4 principles to guide you. 
  
@@ -22,3 +24,15 @@ Supporting the manifesto are the 12 Principles of Agile Software.  Together, the
 These principles should be the filter behind everything you do as a scrum master.
 
 
+ Uncle Bob's first law of documentation: "Produce no document unless "its need is immediate and significant." So if the answer is no, don't document until you feel it's absolutely necessary. 
+ 
+ agile development runs on the light side of documentation
+ 
+ . Then come deadlines, changing requirements, bugs, client feedback. This can transform an orderly project design into spaghetti code in a matter of weeks.
+ 
+ Avoid Pre-mature Optimization:
+  Looking ahead is a great skill, but time is your greatest asset when you're working with Agile. 
+  So, be aware of the trade offs between optimizing your code and moving forward with sprint tasks. 
+  It's not about solving every problem before it happens. It's about having a foundation that is adaptable enough to handle new problems and features as they come.
+  
+  
