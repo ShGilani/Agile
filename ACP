@@ -26,6 +26,63 @@ This fundamental change required a shift in mindset. Anyone can do Agile practic
 
  Anyone can do Agile practices, but it's not enough unless you, as a leader, are demonstrating what it means to be Agile.
  
+  It's a family of more than a dozen actively used practices.
+  Create a safe environment for Team - Establish Trust, Mistakes/Imperfections
+  
+  Information Radiators: ( Visualization Charts)
+  ------------------------------
+   Regular interactions with your customers are critical to maintaining alignment and building partnerships with them. Even when you can't meet with them face-to-face, Agile relies on information radiators to keep everyone that's interested aware of what you and your team are doing.
+   
+    First, you want to make sure your iteration, or sprint commitments, are displayed. Make sure your stakeholders know what you're promising to deliver. Then make sure you advertise how you're progressing toward those goals. Teams generally use a sprint burndown chart to show their progress toward their sprint commitment.
+    
+     By openly sharing this information, both the team and your customers are aware of your progress. This level of openness and transparency builds trust within the team and among your stakeholders. When an issue arises, these charts will demonstrate the impact. By not hiding the bad news but sharing it equally, just like the good news, we're establishing our integrity and trustworthiness. 
+     
+     Self-Organizing:
+     ----------------
+ team has attained the level of maturity known as self-organizing.
+    
+     . Self-organization doesn't mean the team decides on their own organizational design or what project they'll do. 
+     It simply means that leaders step back and allow the team the freedom to define the right solution to their challenges themselves. 
+     As leader, you still maintain the Agile boundaries, but the team is free to experiment with and problem solve within those boundaries.
+     
+     Value Driven Delivery:
+     ---------------------------
+      Well, all projects are started to add value to a business. Maybe it's a new product or an enhancement to an existing one. Value, then, is defined as the product or deliverable. Ultimately, the product will be observably more useful to your customer after you make that change. When we say that Agile is focused on value-driven delivery, we're really filtering every activity with the question what will result in the most value for our customer? The easiest way to do this is using a technique we call vertical slicing. 
+      
+      vertical slicing:
+       a technique we call vertical slicing. Think of it this way. If you're building a website, you can build it horizontally or vertically. If you do it horizontally, you'll build the whole user interface first. Then you'd build the logic and services that make the website functional. If you do it vertically, you'll build a small bit of the user interface and the logic at the same time. In that way, you end up with incremental value. The additional benefit to vertical slicing is that you're itemizing each valuable deliverable in your backlog.
+       
+       Consensus/ Acceptance Criteria:
+        Another real benefit to defining value and focusing on it continuously is that you're driving consensus every time you slice your work. As you define a valuable piece of work, you also have to define success for it so everyone knows what they're trying to achieve. This is its Acceptance Criteria, or AC. Essentially, these are straightforward statements of the requirements that must be met for the value to be delivered. When you write your stories, agreeing up front on the AC is a great way to minimize waste. 
+        
+        Tailor agile to meet your needs:
+Selecting transcript lines in this section will navigate to timestamp in the video
+- Sometimes when I find great clothes on sale they're not quite the right size. I found a wonderful tailor though who can modify these clothes so they fit me perfectly. You might think of agile in the same way as a family of practices that allow you to tailor your processes to meet your specific needs. The most common adaptation is in sprint length. As you know iterations are meant to be anywhere from two to four weeks. This inherent ability to flex is the easiest way to tailor your agile practice. 
+ The best part is you can pick and choose practices from across the disciplines and different agile methodologies. So if you're using scrum you can still borrow practices from extreme programming or XP
+ 
+Sprint Length:
+. As an example I once worked on a team that was given a large initiative with a lot of risk and a tight timeline to bring the product to market. One of the adaptations we made to our scrum practice was to shift their iteration length from three weeks to two. Why? Well in the face of high risk and short time lines we needed to speed up our process of discovery. Essentially we needed to fail faster to meet the deadline while mitigating risk.
+
+Customer feedback:
+Customer feedback is an essential ingredient to quality.
+The advantage is that we had continuous customer feedback and buy-in on our design decisions. 
+
+MVP:
+. Because of the vision, we know the big picture for our project, but we need to break that down into a series of deliverables that will get us to the product one bite at a time. As we plan our projects and the releases that we'll produce, we have to remember that every release needs to be valuable. In this context, valuable means that the release has to be useful to our customers. The term minimum viable product or MVP is the Agile shorthand for these small increments. Another common term is the minimum marketable feature or MMF. 
+ Well, there are some advantages to using this approach. First, by releasing a little bit early, we get fast feedback from our customers. 
+ That feedback will influence further design and development efforts. You get real world testing as well. 
+ Another great reason is that you're starting to get early return on your investment. Gaining early ROI essentially helps fund your project's future releases. Either by sales, if you're building a new product, or by stakeholder good will, if you're product is for internal use.
+ 
+ 
+ 
+  
+  
+
+        
+     
+     
+    
+ 
  
 
  
