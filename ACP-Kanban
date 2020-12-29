@@ -1,3 +1,18 @@
+
+Focuses on Product Development Flow
+Kanban Board - A Signalling Device - High level view of Team's Progress - Watching a Sport Match with a Score Board
+
+5 Key Elements/ Properties of Kanban:
+-------------------------
+Visualize the Work flow
+Limit Work in Progress: Donot overload the System.
+Measure and Manage Flow.
+Make Process/Policies Explicit.Complex Adaptive Sysytems should keep rules Simple and make them Explicit.
+Recognize improvement Opportunities.
+
+
+
+
 Kanban is called a pull system:
 ----------------------------------
 
@@ -10,6 +25,11 @@ Kanban and JIT Manufacturing:
 JIT :  Just in Time 
 no need of large warehouses
  The trick was to deliver them in small batches and do your best to manage this batch or queue size.
+ 
+ Kanban adn capacities:
+ ------------------------------
+A kanban team has a set capacity. This is usually the number of hours each person works in a week.
+ 
  
 
 Kanban and batches:
