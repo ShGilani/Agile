@@ -1,0 +1,39 @@
+Adaptive Planning:
+---------------------------
+One of the most common myths about Agile projects is that teams don't plan, they just take the vision and start building stuff. In reality, you'll spend more time planning with Agile than you did with traditional project processes. I know it sounds crazy but the basic philosophy of Agile planning is that we're planning to re-plan. Agile acknowledges that information work is inherently unpredictable. That being the case, it relies on adaptive planning. That means that we'll plan what we can upfront but know that we must adapt our plans throughout the project to meet the reality being faced by the team. 
+
+In fact, if you think about it you're planning every day with Agile. At the start of the project you began with a vision for the project that's the strategic plan, what you're going to build and why it's valuable. Then you moved into planning your releases. Which MVPs do you plan to deliver when? Next, you broke those MVPs into smaller pieces and decided what you're going to deliver in each iteration of the release. Finally, every day of the iteration you're planning what to do today to meet the iteration objective. As you can see, Agile-ists plan every single day.
+
+rolling wave planning:
+-----------------------
+ Where the Agile approach differs from traditional PM is through the approach known as rolling wave planning. This is the strategy of planning at multiple points in time. Simply put, you're going to re-visit and adapt your plans throughout the life of the project. For me, I use the iterations and product releases as easy hallmarks to tell me when to re-plan. Every time you complete an iteration or release an MVP, you know more about your product than you did before each and every time you go back and re-visit your plans. Does what you learned in that iteration or release trigger a change in your original estimated plan? This is what we call rolling wave planning. You're simply aware that at times you're going to review your original plans and make new ones based on what you know now. You plan as a rolling wave between and within your execution cycles. Progressive elaboration is another key concept in Agile. 
+ 
+ Progressive Elaboration:
+ -----------------------------------
+ While rolling wave planning is the acknowledgement that we don't know it all upfront so we'll continuously plan, progressive elaboration is how you apply it. You incorporate new information into your plans. You're taking feedback from demos and releases and re-prioritizing the backlog. As you go through your planning cycles you can't do this in a vacuum. Just like when you kicked off your project you were very careful about who to include in your visioning meeting. In that meeting your goal was to gain consensus on what the project is and what it does. You'll do the same thing as you re-plan your releases. In this way, you can share with the stakeholders what you've learned and how that's affected your road map. For me, I always hold a release kickoff meeting to share this information with my stakeholders. The benefits of rolling wave planning include the ability to keep diverse stakeholders in alignment on the plans. While you're continuously planning at many levels stakeholders require the most consistent visible communication.
+ 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Flex your Agile
+ ------------------
+ 
+  The whole point of flexing your Agile is to customize it to your needs.
+  
+ Iteration 0:
+ . In iteration 0, you'll be identifying resources, setting up work spaces, setting up development and test environments, establishing the vision, and doing your normal early planning. This sprint can be as long or as short as you need it to be. For example, maybe you're setting up a brand new team to complete a product using a development language that's new to you. During iteration 0, you'll identify your team, do any hiring and training needed, and set up all the development tools they'll need to begin delivering value in iteration 1
+ 
+ Iteration H (Hardening)
+ . A hardening iteration, iteration H, is a different optional iteration. In iteration H, you're hardening or finalizing your release contents. Your team is doing any final steps necessary to ensure your release is ready to move to production.  Many teams use this to complete extra testing, finalize user and system documentation, or whatever is needed to stabilize your code.
+ 
+ Spike Iterations:
+  There are additional iteration types you can use as well. These are focused on identifying risk and trying to mitigate them upfront. These fall into the category of spike iterations, and they come in two flavors: architectural spike and risk-based spike. 
+  
+  . The purpose is to answer the question: Can we do this? Essentially, an architectural spike is a proof of concept build that will tell the team early on if the selected technology will work. For example, maybe it's cost-effective for your company to begin using an open source database for their web applications. You could do an architectural spike to prove that this free database will work. 
+  
+  Next, let's talk about risk-based spikes.
+  . Let's look at an example of building an ATM machine. You have a requirement that a photograph check on a smartphone can be an acceptable form of deposit. One of the key risks is whether you can interface between a mobile device and your old system, so you execute a risk-based spike to make sure you can. If you can't, well, you need a new solution. 
+  
+  Fast Failures:
+  Sometimes, your proof of concept efforts aren't successful. That's okay. You've reached a state known as fast failure. It sounds bad, but it's really a good thing. You've learned early what won't work and now the resources can be directed to something that will work. 
+  
+  
+ 
