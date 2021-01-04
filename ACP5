@@ -1,0 +1,48 @@
+Absolute Estimation vs Relative
+------------------------------------
+Agile acknowledges that while people stink at absolute estimation, we're really good at comparing things to each other. This is known as relative estimation.
+ As an example, a soccer ball is roughly three times bigger than a cricket ball.
+ 
+ Affinity Estimation:
+ . This technique involves grouping your stories into similar categories or affinities. 
+ 
+ Wideband Delphi/ Planning Poker:
+  Another technique that can be used is known as Wideband Delphi. This is a group-based estimation technique where a panel of experts, your team, anonymously submit their estimates. The reason this is so valuable is that it avoids human biases. The common biases we're trying to avoid are the bandwagon effect, where people tend to go along with whichever opinion is gaining the most ground.
+  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Team Norms:
+  
+   One great method almost all Agile teams use is team norms. As the team forms, you need to lead your team through a norming session. Team norms are the ground rules that all team members agree to abide by throughout the course of the project. These are rules that they set for themselves about how they'll interact with each other. Every project and team should norm at the beginning. As new team members are added, the norms are reviewed and modified if necessary. In fact, team norms should be reviewed every couple of months so they adapt to what the team identifies as beneficial as they learn and grow together. A norming session is usually 30 to 60 minutes. You'll pull the team together with the product owner and scrum master and start identifying the ground rules. The norms can be very serious and govern how decisions are made. Here's an example. Silence means consent. This norm implies that if you disagree, you're expected to speak your mind. If you choose not to speak, you're still committed to the team decision. Some norms don't seem very serious at all, like no meetings before 9 a.m. on Mondays. These are simply boundaries
+   
+   Generalize your Team: T- shaped Resource
+   -----------------------------
+   we need to organize our teams around specialties while setting the expectation that team members generalize as well.
+   
+   Swarming:
+   . This is known as swarming, which is when the team members' secondary skills are put to use to help accomplish the sprint goal. 
+   . The value this provides to the team is incredible. When you're late in the sprint and focused on testing and refactoring, it's amazing to see everyone come together to cross the finish line. Not only does your product benefit, so do team cohesion and morale. You see, like a football team, when everyone faces the last-minute crisis and huddles together to make that last dash to victory, it builds team confidence and trust. These are the early hallmarks of self organization that can blossom into high performance for your agile team.
+   
+   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+   Team Space/ Co-Location:
+   
+   . In your team space you'll usually have lots of great information posted. Your product vision, maybe your task board, a white board with some design models on it, team norms, your current burn down chart and the burn up chart that will tell you what's left to finish your product. These are more than just cool graphics they're reminders of the team's commitments to each other, their stake holders, and their product. 
+   
+   osmotic communication:
+   Another benefit of co-location is what agilists call osmotic communication. This is another way to describe what you overhear of your teammates' conversations just by sitting close to them. This type of communication is free flowing and low cost. Let's say you're working in your team space and you hear a developer say, "She's going to refresh the database of customer data "to run a test on her code." Maybe you're in the middle of final testing and changing the data will skew your results. Based on osmotically hearing the developer's conversation you're able to avert a collision and negotiate better timing for everyone. I
+   osmotic communication
+   
+    concepts of caves and commons. :
+     The team space is clearly the commons area. People work primarily in this environment. However knowing that sometimes everyone needs a little privacy for phone calls or heightened focus caves are small work rooms or cubicles where people can go to get away for a little while.
+     
+     Electronic Team Spaces:
+     . Being co-located, while ideal, is pretty rare. Distributed teams are those with members more than 10 meters away and divided by walls or other barriers like time zones. So what do we do? Well we use communication planning and technology to replicate the experience of co-location. 
+     . A conference phone and maybe a digital taskboard. Other great tools are instant messaging and electronic team spaces where people can check in online and be available on their schedule.
+     
+     
+     
+   
+   
+  
+
+
