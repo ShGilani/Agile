@@ -1,6 +1,6 @@
 
 Focuses on Product Development Flow
-Kanban Board - A Signalling Device - High level view of Team's Progress - Watching a Sport Match with a Score Board
+Kanban Board/Wall - A Signalling Device - High level view of Team's Progress - Watching a Sport Match with a Score Board
 
 5 Key Elements/ Properties of Kanban:
 -------------------------
@@ -37,5 +37,15 @@ Kanban and batches:
  If you're a fan of fast food, then you probably recognize this Kanban sandwich shop. This is exactly the type of system that most popular fast food restaurants use to create meals. The key thing to remember is that the kitchen will work hard to create the right sized batches. If there's too many sandwiches, then they'll get cold, and won't be purchased by customers. If there are too few sandwiches, then there'll be unhappy customers waiting for their meal. They want to deliver the exact number of sandwiches that will be consistently pulled through the system at a predictable pace. The same thing will be true with any Kanban system. You want to make sure that you have consistently sized batches, so that your customers don't have to wait. That's why you hear a lot about queue sizes. 
  
  
+ -----------------------
+ 
+ Mapping the Value Stream
+ 
+ Identify any thing Waste in the flow - Any Extra Steps
+ (between Customer Requirement to Product Delivery)
+ 
+ Make your Process Lean
+ Use of CI
+ Let QA do User Acceptance testing
  
  
