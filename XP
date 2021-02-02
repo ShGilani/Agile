@@ -26,3 +26,154 @@ reliance on the close collaboration of actively engaged individuals with ordinar
  XP teams play full out to win and accept responsibility for the consequences. 
  Keeping a little distance in relationships, holding back effort through underwork, putting off feedback for another round of responsibility diffusion: none of these behaviors have a place on an XP team.
  
+ XP is a software development discipline that addresses risk at all levels of the development process. XP is also productive, produces high-quality software, and is a lot of fun to execute.
+ 
+ How does XP address the risks in the development process?
+ Schedule slips—. XP calls for short release cycles, a few months at most, so the scope of any slip is limited.
+ Within a release, XP uses one-week iterations of customer-requested features to create fine-grained feedback about progress.
+ Within an iteration, XP plans with short tasks, so the team can solve problems during the cycle.
+ Finally, XP calls for implementing the highest priority features first, so any features that slip past the release will be of lower value.
+ 
+ XP creates and maintains a comprehensive suite of automated tests, which are run and rerun after every change (many times a day) to ensure a quality baseline. XP always keeps the system in deployable condition. Problems are not allowed to accumulate.
+ 
+ The specification of the project is continuously refined during development.
+ 
+ XP asks programmers to accept responsibility for estimating and completing their own work. Thus, there is less chance for a programmer to get frustrated by being asked to do the obviously impossible.
+ 
+ XP also encourages human contact among the team, reducing the loneliness that is often at the heart of job dissatisfaction.
+ 
+ XP assumes that you see yourself as part of a team, ideally one with clear goals and a plan of execution. XP assumes that you want to work together. 
+ 
+ The biggest problem I encounter in what people “just know” about software development is that they are focused on individual action. What actually matters is not how any given person behaves as much as how the individuals behave as part of a team and as part of an organization.
+ 
+ 
+ what is XP?
+XP is giving up old, ineffective technical and social habits in favor of new ones that work.
+XP is fully appreciating yourself for total effort today.
+XP is striving to do better tomorrow.
+XP is evaluating yourself by your contribution to the team's shared goals.
+XP is asking to get some of your human needs met through software development.
+
+Driving is about constantly paying attention, making a little correction this way, a little correction that way. This is the paradigm for XP. Stay aware. Adapt. Change.
+
+Everything in software changes. The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn't change, because change is going to happen; the problem, rather, is our inability to cope with change.
+
+Values and Practices:
+----------------------------------
+ Values are the roots of the things we like and don't like in a situation. When a programmer says, “I don't want to estimate my tasks,” he generally isn't talking about technique. He already estimates, but doesn't want to reveal what he really thinks for fear of providing a fixed point of judgement that will be used against him later. Better triple that estimate! Refusing to communicate estimates reveals something much deeper about how he sees the social forces in development. Perhaps he doesn't want to be accountable because he has been blamed unfairly in the past. In this case, the programmer values protection over communication.
+ 
+ Making values explicit is important because without values, practices quickly become rote, activities performed for their own sake but lacking any purpose or direction.
+ 
+ When I hear a programmer brush off a defect, I hear a failure of values, not technique. The defect itself might be a failure of technique, but the reluctance to learn from the defect shows that the programmer doesn't actually value learning and self-improvement as much as something else. This is not in the best interest of the program, the organization, or the programmer. Bringing values together with practices means that the programmer can perform a practice, in this case root-cause analysis, at effective times and for good reasons. Values bring purpose to practices.
+ Practices are clear. Everyone knows if I've attended the morning standup meetings. Whether I really value communication is fuzzy. Whether I maintain practices that enhance communication is concrete. Just as values bring purpose to practices, practices bring accountability to values.
+ 
+ XP embraces five values to guide development: communication, simplicity, feedback, courage, and respect.
+ 
+ Long documents are intended to communicate, so are daily conversations. Which is the most effective?
+ The answer depends partly on context and partly on intellectual principles. 
+ In this case, the principle of humanity suggests conversation meets the basic human need for connection and so is the preferred form of communication, all other things being equal. Written communication is inherently more wasteful. While written communication allows you to reach a large audience, it is a one-way communication. Conversation allows for clarification, immediate feedback, brainstorming together, and other things you can't do with a document. Written communication tends to be taken as fact or rejected outright, neither of which is an invitation to increased communication.
+ 
+ The practices are effective precisely because they address the enduring problems of people developing software together.
+
+  Eliminate unnecessary complexity.
+  change creates the need for feedback.
+  “Wouldn't it be easier just to do it right in the first place?” Of course it would, except for three things:
+We may not know how to do it “right”. If we are solving a novel problem there may be several solutions that might work or there may be no clear solution at all.
+What's right for today may be wrong for tomorrow. Changes outside our control or ability to predict can easily invalidate yesterday's decisions.
+Doing everything “right” today might take so long that changing circumstances tomorrow invalidate today's solution before it is even finished.
+Being satisfied with improvement rather than expecting instant perfection, we use feedback to get closer and closer to our goals.
+
+The courage to speak truths, pleasant or unpleasant, fosters communication and trust. The courage to discard failing solutions and seek new ones encourages simplicity. The courage to seek real, concrete answers creates feedback.
+
+Principles:
+-------------------------
+Values are too abstract to directly guide behavior. 
+
+1. Humanity:
+People develop software. 
+The magic of great teams is that after the team members develop trust they find that they are free to be more themselves as a result of their work together.
+
+ 2. Economics
+ Somebody has to pay for all this. Software development that doesn't acknowledge economics risks the hollow victory of a “technical success”. 
+ Make sure what you are doing has business value, meets business goals, and serves business needs. For example, solving the highest priority business need first maximizes the value of the project.
+ 
+ One of the aspects of economics that affect software development is the  time value of money  
+ Software development is more valuable when it earns money sooner and spends money later. Incremental design explicitly defers design investment until the last responsible moment in an effort to spend money later.
+ 
+ 3. Mutual Benefit:
+ Extensive internal documentation of software is an example of a practice that violates mutual benefit. I am supposed to slow down my development considerably so some unknown person in a potential future will have an easier time maintaining this code.
+ XP solves the communication-with-the-future problem in mutually beneficial ways:
+ 
+I write automated tests that help me design and implement better today. I leave these tests for future programmers to use as well. This practice benefits me now and maintainers down the road.
+I carefully refactor to remove accidental complexity, giving me both satisfaction and fewer defects and making the code easier to understand for those who encounter it later.
+I choose names from a coherent and explicit set of metaphors which speeds my development and makes the code clearer to new programmers.
+Win-win-win practices
+
+4. Self-Similarity
+
+try copying the structure of one solution into a new context, even at different scales. For example, the basic rhythm of development is that you write a test that fails and then you make it work. The rhythm operates at all different scales.
+
+5. Improvement:
+In software development, “perfect” is a verb, not an adjective.
+The cycle is to do the best you can today, striving for the awareness and understanding necessary to do better tomorrow. It doesn't mean waiting for perfection in order to begin.
+
+6. Diversity:
+Software development teams where everyone is alike, while comfortable, are not effective. Teams need to bring together a variety of skills, attitudes, and perspectives to see problems and pitfalls, to think of multiple ways to solve problems, and to implement the solutions. Teams need diversity.
+
+Conflict is the inevitable companion of diversity. Not conflict in the “we hate each other and we just can't make progress” sense, but in the “there are two ways to solve this” sense.
+
+7. Reflection:
+Good teams don't just do their work, they think about how they are working and why they are working. They analyze why they succeeded or failed. They don't try to hide their mistakes, but expose them and learn from them.
+Software development has a long tradition of people so busy thinking about software development they don't have time to develop software. Reflection comes after action.
+To maximize feedback, reflection in XP teams is mixed with doing.
+
+8. Flow:
+Flow in software development is delivering a steady flow of valuable software.
+Many teams make the problem worse by tending to respond to stress by making the chunks of value bigger, from deploying software less frequently to integrating less often.
+The more things are deferred, the larger the chunk, the higher the risk. In contrast, the principle of flow suggests that for improvement, deploy smaller increments of value ever more frequently.
+
+9. Opportunity
+Part of being extreme is consciously choosing to transform each problem into an opportunity: an opportunity for personal growth, deepening relationships, and improved software.
+Can't make accurate long-term plans? Fine—have a quarterly cycle during which you refine your long-term plans. A person alone makes too many mistakes? Fine—program in pairs. 
+
+10. Redundancy
+While redundancy can be wasteful, be careful not to remove redundancy that serves a valid purpose. Having a testing phase after development is complete should be redundant. However, eliminate it only when it is proven redundant in practice by not finding any defects several deployments in a row.
+Defects are addressed in XP by many of the practices: pair programming, continuous integration, sitting together, real customer involvement, and daily deployment, for example. Even if your partner doesn't catch an error, someone else sitting across the room might or it might be caught by the next integration. Some of these practices are certainly redundant, catching some of the same defects.
+
+11. Failure:
+If you're having trouble succeeding, fail. Don't know which of three ways to implement a story? Try it all three ways. Even if they all fail, you'll certainly learn something valuable.
+Isn't failure waste? No, not if it imparts knowledge. Knowledge is valuable and sometimes hard to come by. Failure may not be avoidable waste. If you knew the best way to implement the story you'd just implement it that way. Given that you don't already know the best way, what's the cheapest way to find out?
+I coached a team that had several good designers, so good that each of them could come up with two or three ways of solving any given problem. They would sit for hours, talking about each of their ideas in turn. By the time they were tired of talking, they could have implemented all the alternatives twice. They didn't want to waste programming time, though, so they wasted talking time instead.
+I bought the team a kitchen timer and asked them to limit design discussions to fifteen minutes. When the timer went off, two of them would go implement something. They only used the timer a couple of times, but they kept it around as a reminder to fail instead of talk.
+This is not intended to excuse failure when you really knew better. When you don't know what to do though, risking failure can be the shortest, surest road to success.
+ 
+ 12: Quality
+ Quality isn't a purely economic factor. People need to do work they are proud of. I remember talking to the manager of a mediocre team. He went home on the weekends and made fancy ironwork as a blacksmith. He met his need for quality; he just met it outside of work.
+ Do not sacrifica quality. Projects don't go faster by accepting lower quality. They don't go slower by demanding higher quality. 
+ 
+ 13. Baby Steps
+ Baby steps are expressed in practices like test-first programming, which proceeds one test at a time, and continuous integration, which integrates and tests a few hours' worth of changes at a time.
+ It's always tempting to make big changes in big steps. I often ask, “What's the least you could do that is recognizably in the right direction?” Under the right conditions, people and teams can take many small steps so rapidly that they appear to be leaping.
+ 
+ 14. Accepted Responsibility
+ Responsibility cannot be assigned; it can only be accepted. If someone tries to give you responsibility, only you can decide if you are responsible or if you aren't.
+ The practices reflect accepted responsibility by, for example, suggesting that whoever signs up to do work also estimates it. Similarly, the person responsible for implementing a story is ultimately responsible for the design, implementation, and testing of the story.
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
